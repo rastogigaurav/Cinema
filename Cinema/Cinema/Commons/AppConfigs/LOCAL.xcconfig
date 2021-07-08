@@ -1,0 +1,17 @@
+//
+//  LOCAL.xcconfig
+//  Cinema
+//
+//  Created by g.b.rastogi on 08/07/2021.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_ENVIRONMENT = LOCAL
+APP_BUNDLE_NAME = Cinema - LOCAL
+APP_BUNDLE_VERSION = 0.0.1
+APP_BUILD_NUMBER = 1
+APP_BUNDLE_ID = com.rastogigaurav.cinema.local
+BASE_URL = http:\/\/localhost:8888
+CLIENT_SECRET_KEY = YWRtaW46cGFzc3dvcmQ=

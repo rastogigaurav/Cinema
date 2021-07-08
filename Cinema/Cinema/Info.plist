@@ -18,6 +18,13 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>Config</key>
+	<dict>
+		<key>AppEnvironment</key>
+		<string>$(APP_ENVIRONMENT)</string>
+		<key>BaseURL</key>
+		<string>$(BASE_URL)</string>
+	</dict>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UIApplicationSceneManifest</key>
